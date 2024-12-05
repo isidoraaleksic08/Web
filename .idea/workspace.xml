@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4814eb7b-de89-4445-a81e-3b4d7c689191" name="Changes" comment="comit1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2o1Pi5pCTuhDGNhLC3mDLmRWjCb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ASPIRE 5/Downloads/lab",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ],
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="mk.finki.ukim.mk.lab.bootstrap" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Lab" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="lab" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="mk.finki.ukim.mk.lab.LabApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4814eb7b-de89-4445-a81e-3b4d7c689191" name="Changes" comment="" />
+      <created>1730034233381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730034233381</updated>
+      <workItem from="1730034234385" duration="7511000" />
+      <workItem from="1730046790498" duration="1143000" />
+      <workItem from="1730107368593" duration="17000" />
+      <workItem from="1730214077934" duration="5276000" />
+      <workItem from="1730223479352" duration="351000" />
+      <workItem from="1730279227351" duration="10410000" />
+      <workItem from="1730290027506" duration="193000" />
+      <workItem from="1730291199548" duration="35000" />
+      <workItem from="1730366341064" duration="120000" />
+      <workItem from="1730396020767" duration="2776000" />
+      <workItem from="1730646720314" duration="4665000" />
+      <workItem from="1730901186485" duration="6446000" />
+      <workItem from="1731170841338" duration="3318000" />
+      <workItem from="1731245567707" duration="11277000" />
+      <workItem from="1731262708629" duration="12000" />
+      <workItem from="1731262767756" duration="12000" />
+      <workItem from="1731359827350" duration="2626000" />
+      <workItem from="1731452598050" duration="10470000" />
+      <workItem from="1731497466522" duration="1686000" />
+      <workItem from="1731530023243" duration="2036000" />
+      <workItem from="1731603232863" duration="1988000" />
+      <workItem from="1731660043115" duration="10000" />
+      <workItem from="1731774331078" duration="52000" />
+      <workItem from="1732193384240" duration="2604000" />
+      <workItem from="1733310807397" duration="1572000" />
+      <workItem from="1733315496706" duration="12066000" />
+      <workItem from="1733334067410" duration="1137000" />
+      <workItem from="1733335225261" duration="525000" />
+      <workItem from="1733391551542" duration="100000" />
+      <workItem from="1733391664084" duration="1405000" />
+    </task>
+    <task id="LOCAL-00001" summary="comit1">
+      <option name="closed" value="true" />
+      <created>1733392991393</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733392991393</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab$LabApplication.ic" NAME="LabApplication Coverage Results" MODIFIED="1731249838283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/LabApplication_java$LabApplication.ic" NAME="LabApplication Coverage Results" MODIFIED="1733391727079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
