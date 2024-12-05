@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <style type="text/css">
+    body {
+      width: 800px;
+      margin: auto;
+    }
+    table {
+      width:100%;
+    }
+    table, td, th {
+      border: 1px solid black;
+      padding: 3px 2px;
+    }
+  </style>
+</head>
+
+<body>
+<div class="container">
+
+  <section>
+    <h1 class="display-4">Event Booking Page - Booking Confirmation</h1>
+  </section>
+
+  <div th:if="${#lists.isEmpty(session.myBookings)}">
+    <div class="alert alert-info">
+      <p>No bookings found. Please make a booking.</p>
+    </div>
+  </div>
+  <div th:if="${!#lists.isEmpty(session.myBookings)}">
+    <div class="card">
+      <div class="card-header">
+        <h4 class="card-title">Your Booking Status</h4>
+      </div>
+      <div class="card-body">
+        <table class="table table-bordered table-striped">
+          <thead class="thead-dark">
+          <tr>
+            <th>Attendee Name</th>
+            <th>Client IP Address</th>
+            <th>Booking for Event</th>
+            <th>Number of Tickets</th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr th:each="booking : ${session.myBookings}">
+            <td th:text="${booking.attendeeName}"></td>
+            <td th:text="${booking.attendeeAddress}"></td>
+            <td th:text="${booking.eventName}"></td>
+            <td th:text="${booking.numberOfTickets}"></td>
+          </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>
