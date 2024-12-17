@@ -62,7 +62,7 @@ public interface EventRepository extends JpaRepository<Event, Long> {
     Optional<Event> findByName(String name);
     List<Event> searchEventByName(String name);
     List<Event> searchByCategory(Category category);
-//    Optional<Event> save(Event event);
+     //Optional<Event> save(Event event);
 
     @Query("SELECT e FROM Event e WHERE e.category.category = :category")
     List<Event> findEventByCategory(String category);
